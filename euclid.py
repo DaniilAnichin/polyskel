@@ -21,11 +21,11 @@
 # along with this library; if not, write to the Free Software Foundation,
 # Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA
 
-'''euclid graphics maths module
+"""euclid graphics maths module
 
 Documentation and tests are included in the file "euclid.rst", or online
 at https://github.com/ezag/pyeuclid/blob/master/euclid.rst
-'''
+"""
 
 __docformat__ = 'restructuredtext'
 __version__ = '$Id$'
